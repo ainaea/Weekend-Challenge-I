@@ -39,10 +39,23 @@ div p{
 }
 
 img{
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 125px;
+    
 }
 
 .container{
     display: flex;
+    justify-content: space-evenly;
+
+}
+
+.container div{
+    flex-basis: 20%;
+}
+
+.container div img{
+    width: 95%;
+    height: 100%;
+    
 }
