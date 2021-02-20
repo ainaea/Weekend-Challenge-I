@@ -53,6 +53,7 @@ img{
 .container div{
     flex-basis: 20%;
     height: 250px;
+    overflow: hidden;
 
     }
 
@@ -67,5 +68,5 @@ footer{
     height: 80px;
     display: flex;
     justify-content: center;
-    align-content: center;
+    
 }
