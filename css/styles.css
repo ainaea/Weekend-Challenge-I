@@ -39,6 +39,10 @@ nav ul li a:hover{
     color: white;
 }
 
+#firstp{
+    padding: 0px 70px;
+}
+
 div p{
     text-align: left;
     padding-left: 10px;
